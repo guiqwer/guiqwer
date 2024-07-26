@@ -7,7 +7,6 @@ Currently studyng computer science at [Federal Institute of Ceará](https://ifce
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
 
 #### Tools and Technologies
 
