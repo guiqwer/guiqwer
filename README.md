@@ -1,6 +1,6 @@
 ### Hi there, I'm Guilherme Souza 👋
 
-Currently studyng computer science at [Federal Institute of Ceará](https://ifce.edu.br/maracanau), Brazil.
+Currently studying computer science at [Federal Institute of Ceará](https://ifce.edu.br/maracanau), Brazil.
 
 ## Skills:
 
