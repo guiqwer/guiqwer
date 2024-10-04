@@ -6,11 +6,11 @@ Currently studying computer science at [Federal Institute of Ceará](https://ifc
 
 #### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
 
 #### Tools and Technologies
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+[![Tech Tools](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
