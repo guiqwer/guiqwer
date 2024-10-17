@@ -10,7 +10,7 @@ Currently studying computer science at [Federal Institute of Ceará](https://ifc
 
 #### Tools and Technologies
 
-[![Tech Tools](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+[![Tech Tools](https://skillicons.dev/icons?i=git,docker, postgres)](https://skillicons.dev)
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
