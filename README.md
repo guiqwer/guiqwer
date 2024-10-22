@@ -1,11 +1,8 @@
-![GIF](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19cce1f8-5c10-4ef6-a6b9-0344bdcb360b/dehfids-10b577f5-23a2-4511-bb1b-bea776c6ef5f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5Y2NlMWY4LTVjMTAtNGVmNi1hNmI5LTAzNDRiZGNiMzYwYlwvZGVoZmlkcy0xMGI1NzdmNS0yM2EyLTQ1MTEtYmIxYi1iZWE3NzZjNmVmNWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KIrdBUolG-DiWZvam7rVLiwdP7a2KHECcNE-WSrCGCU)
+![gif](https://img.odcdn.com.br/cdn-cgi/image/width=1280,height=720,fit=cover/wp-content/uploads/2023/11/Gif-astronauta-arco-iris.gif)
 
 <h1 align="center">Hi 👋, Guilherme Souza</h1>
 <h3 align="center">Passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/121/12113.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="guiqwer" /> </p>
 
 - 🌱 I’m currently learning **Java / Spring Boot**
 
