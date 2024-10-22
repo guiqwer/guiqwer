@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Connect](https://skillicons.dev/icons?i=c,linkedin)](https://www.linkedin.com/in/guilherme-souza-6b45321a4/)
+[![Connect](https://skillicons.dev/icons?i=,linkedin)](https://www.linkedin.com/in/guilherme-souza-6b45321a4/)
 
 
 [![Languages](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
