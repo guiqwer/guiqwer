@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Guilherme Souza</h1>
 <h3 align="center">Currently studying computer science at <a href="https://ifce.edu.br/maracanau">Federal Institute of Ceará</a>, Brazil.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAe/coding-anime.png">
+<img align="right" alt="Coding" width="400" src="(https://giffiles.alphacoders.com/121/12113.gif)">
 
 
 - 🌱 I’m currently learning **JAVA and Spring Boot**
@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact **I am the java**
 
-#### Languages:
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
 [![Languages](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
 
