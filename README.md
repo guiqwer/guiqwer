@@ -1,4 +1,4 @@
-![gif](https://64.media.tumblr.com/9fcc9762313e134b8710a8c2fb53ff5c/tumblr_o6g4rv4niS1toklayo1_500.gifv)
+![gif](https://steamuserimages-a.akamaihd.net/ugc/955209359308646555/ACD5BD38F4EDF482FA0C77D43E42E1001CB55626/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)
 
 <h1 align="center">Hi 👋, Guilherme Souza</h1>
 <h3 align="center">Passionate Developer</h3>
