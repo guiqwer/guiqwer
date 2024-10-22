@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, Guilherme Souza</h1>
 <h3 align="center">Currently studying computer science at <a href="https://ifce.edu.br/maracanau">Federal Institute of Ceará</a>, Brazil.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.tenor.com/cX92mi1p-NYAAAAe/coding-anime.png)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAe/coding-anime.png">
+
 
 - 🌱 I’m currently learning **JAVA and Spring Boot**
 
