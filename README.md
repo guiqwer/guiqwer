@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Java / Spring Boot**
   
-- 💬 Ask me about **Java**
+- 💬 Ask me about **anything, i like talk 😊**
 
 - 📫 How to reach me **guilherme.souza0996@gmail.com**
 
