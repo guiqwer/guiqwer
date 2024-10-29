@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋,  I'm Guilherme Souza</h1>
 <h3 align="center">Passionate Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://imgur.com/jGZfrAN">
+<img align="right" alt="Coding" width="300" src="https://i.imgur.com/OeaaLIf.mp4">
 
 - 🔭 Currently studying computer science at <a href="https://ifce.edu.br/maracanau">Federal Institute of Ceará</a>, Brazil.
   
