@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋,  I'm Guilherme Souza</h1>
 <h3 align="center">Passionate Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAyMzExNjIsIm5iZiI6MTczMDIzMDg2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI5VDE5NDEwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5NTJkNDI2NDk1MWM1ZjhjY2FjNjAzNmNjZjM0MmU1ZDFiZmFjYmRkMGY3ZGVjOWUzMTA0MTFkN2E1OWVkYmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dNQK2HQk6lw1liegktUjcdcf6pDsQzTODXp1t1tr4rI">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 - 🔭 Currently studying computer science at <a href="https://ifce.edu.br/maracanau">Federal Institute of Ceará</a>, Brazil.
   
