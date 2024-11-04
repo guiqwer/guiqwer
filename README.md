@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I am the Java**
 
+- 🎮 Lets play ? **https://steamcommunity.com/id/guiqwer/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-souza-6b45321a4/" target="_blank">
